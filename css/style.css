@@ -1,0 +1,51 @@
+.img1 {
+  margin-bottom: 30pt;
+  position: relative; 
+  top: 40px;
+  left: 60px;
+  border-radius: 12px;
+  height: 350px;
+  width: 450px;
+}
+
+h1 { 
+    border: 2px solid white;
+    border-radius: 5px;
+	color: white; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px;
+	background-color: rgba(178, 166, 177, 0.4);
+}
+ 
+p {
+	font-family: 'Nobile', Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 25px;
+}
+.bg-image{
+    background: url('../img/back2.gif')no-repeat center center fixed;
+    background-size: cover;}
+ .bg-image2{
+ 	background: url('../img/puzzleback.jpg')no-repeat center center fixed;
+    background-size: cover;}
+ .bg-image3{
+ 	background: url('../img/bodybackground.jpg')no-repeat center center fixed;
+    background-size: cover;}
+ .bg-image4{
+ 	background: url('../img/backsoul.gif')no-repeat center center fixed;
+    background-size: cover;}
+
+}
+.first-bg{
+	background: gray; opacity: 0.7;
+}
+
+.navbar { 
+	height: 60px;
+	width: 100%;
+}
+
+#navig {
+	background-image: url('../img/wood.jpg');
+}
+#navig a {
+	color: white;
+}
